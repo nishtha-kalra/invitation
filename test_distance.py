@@ -1,6 +1,6 @@
 import unittest
 from math import radians
-from invitation.distance import Invite
+from distance import Invite
 
 
 class TestInvitation(unittest.TestCase):
