@@ -3,12 +3,12 @@
 ### You are invited to our Dublin office for some food and drinks.
 
 ## About Project:
-### The project gives a list of cusomters within 100km of our Dublin office for some food and drinks.
+### The project gives a list of customers within 100km of our Dublin office.
 ### Great-circle distance formula is used to calculate distance between customer's location and the Dublin office.
 
 
-### Requirements:
-## Please install python 3 or higher to run this project.
+## Requirements:
+### Please install python 3 or higher to run this project.
 
 ## How to run:
 ### Clone this repository.
