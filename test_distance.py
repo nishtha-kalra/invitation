@@ -6,8 +6,7 @@ class TestInvitation(unittest.TestCase):
 
     def test_output(self):
         invitation = Invite()
-        a = invitation.find_distance()
-        print(a)
+        a = invitation.get_invitees()
 
 
 if __name__ == '__main__':
